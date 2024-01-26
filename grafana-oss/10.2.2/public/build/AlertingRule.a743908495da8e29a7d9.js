@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkgrafana=self.webpackChunkgrafana||[]).push([[4679],{66494:(o,E,t)=>{t.r(E),t.d(E,{default:()=>f});var n=t(39953),a=t(5229),e=t(41393),l=t(79684),s=t(762),D=t(45050);const m=(0,l.Q)(()=>Promise.all([t.e(5422),t.e(8532),t.e(8476),t.e(1301),t.e(4325)]).then(t.bind(t,74325))),O=(0,l.Q)(()=>t.e(689).then(t.bind(t,90689))),M=P=>n.createElement(s.J,null,n.createElement(a.WZ,{feature:D.v.DetailsViewV2},n.createElement(O,{...P})),n.createElement(a.kC,{feature:D.v.DetailsViewV2},n.createElement(m,{...P}))),f=(0,e.Pf)(M,{style:"page"})}}]);
+
+//# sourceMappingURL=AlertingRule.a743908495da8e29a7d9.js.map

@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkgrafana=self.webpackChunkgrafana||[]).push([[1178],{31178:(m,t,e)=>{e.r(t),e.d(t,{default:()=>M});var a=e(39953),n=e(33155),r=e(72401),E=e(328),_=e(56925);const M=()=>{const{selectedAlertmanager:s}=(0,E.ZA)(),{data:l,isLoading:O,error:o}=(0,r.W)(s);return O&&!l?"loading...":o?a.createElement(n.b,{severity:"error",title:"Failed to fetch message template"},String(o)):l?a.createElement(_.T,{alertManagerSourceName:s,config:l}):null}},56925:(m,t,e)=>{e.d(t,{T:()=>r});var a=e(39953),n=e(9853);const r=({config:E,alertManagerSourceName:_})=>a.createElement(n.OZ,{config:E,alertManagerSourceName:_})}}]);
+
+//# sourceMappingURL=1178.27e23180b307d3d47a74.js.map
